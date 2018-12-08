@@ -18,6 +18,6 @@
 
 ## Team
 
-<img width="100" src="https://rawgit.com/lpdw/eatDelivery/master/temp/pierrecl.png"> |
+<img width="100" src="https://cdn.jsdelivr.net/gh/lpdw/eatDelivery/temp/pierrecl.png"> |
 ---|---|---
 [Pierrecl](https://github.com/pierrecl) | [Rochelle](https://github.com/) | [Alexandre](https://github.com/) 
